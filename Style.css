@@ -1,0 +1,21 @@
+td{
+    height: 20;
+    width: 20;
+   
+}
+.black{
+    background: black;
+    height: 250;
+    width: 250;
+}
+.white{
+    background: rgb(255, 255, 255);
+    height: 250;
+    width: 250;
+}
+h1{
+    color: darkgreen;
+}
+background{
+    color: rgb(194, 128, 46);
+}
